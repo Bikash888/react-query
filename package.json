@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "i18n": "^0.13.2",
     "next": "10.0.2",
+    "next-i18next": "^7.0.1",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "react-responsive-carousel": "^3.2.10"
   }
 }
