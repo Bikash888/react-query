@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "firebase": "^8.1.2",
     "i18n": "^0.13.2",
     "next": "10.0.2",
     "next-i18next": "^7.0.1",
@@ -15,5 +17,8 @@
     "react-dom": "17.0.1",
     "react-query": "^2.26.3",
     "react-responsive-carousel": "^3.2.10"
+  },
+  "devDependencies": {
+    "purgecss": "^3.0.0"
   }
 }
